@@ -1,0 +1,2 @@
+# mauto
+Auto mailbox registration
